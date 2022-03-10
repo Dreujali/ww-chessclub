@@ -11,7 +11,7 @@
 </head>
 <body>
     <?php
-    include "header.php";
+    #include "header.php";
     ?>
     <h2><strong>AHOJ!</strong></h2>
     <p>V&iacute;tej na str&aacute;nce kterou jsem napsal jako vstupn&iacute; projekt do firmy <a href="https://webwings.cz/">Webwings</a></p>
