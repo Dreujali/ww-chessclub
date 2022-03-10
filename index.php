@@ -23,3 +23,4 @@
     <h2><a href="home.php"><strong>Zač&iacute;t</strong></a></h2>
 </body>
 </html>
+
